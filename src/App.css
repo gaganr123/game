@@ -1,0 +1,25 @@
+.deck{
+   width:33.33%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin:auto;
+}
+.game-over{
+  text-align: center;
+}
+.restart{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+ 
+}
+.restart button{
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(46, 82, 88);
+  color: #FFF;
+}
